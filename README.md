@@ -23,7 +23,7 @@ To get started with CASA POS, please contact Gehad Qaki for setup and support. G
 ## Contact Information
 
 **Gehad Qaki**  
-Email: support@casa.technologies  
+Email: support@casa-technologies.com
 Phone: (xxx)xxx-xxxx
 
 ## License
